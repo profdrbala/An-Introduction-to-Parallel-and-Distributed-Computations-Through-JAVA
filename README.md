@@ -1,6 +1,6 @@
 # An-Introduction-to-Parallel-and-Distributed-Computations-Through-JAVA
 
-<<Source code files for all the chapters here>>
+Source code files for all the chapters here....
 
 JAVA LANGUAGE FUNDAMENTALS: An Overview of Java. Data Types, Variables. Arrays. Control Statements. The Elements of Object Oriented Programming. The Java Classes and Objects Constructor. Methods. Inheritance. Summary, Review Questions & Exercises.
 
